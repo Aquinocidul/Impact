@@ -142,7 +142,7 @@
         "text": "Lenti per una visione senza confini",
         "text_size": "large",
         "text_style": "fill",
-        "scrolling_mode": "auto",
+        "scrolling_mode": "scroll",
         "scrolling_speed": 5,
         "background": "",
         "background_gradient": "",
