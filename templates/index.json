@@ -158,7 +158,7 @@
           "settings": {
             "collection": "lenti-visione-senza-confini",
             "subheading": "",
-            "title": "",
+            "title": "Lenti ad alta visibilità",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-end-start text-start",
@@ -172,7 +172,7 @@
           "settings": {
             "collection": "strap-libera-la-tua-personalita",
             "subheading": "",
-            "title": "",
+            "title": "Lenti a media visibilità",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
@@ -186,7 +186,7 @@
           "settings": {
             "collection": "nine-la-maschera",
             "subheading": "",
-            "title": "",
+            "title": "Lenti a bassa visibilità",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
