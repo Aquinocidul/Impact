@@ -150,38 +150,13 @@
         "text_gradient": "linear-gradient(90deg, rgba(0, 29, 93, 1), rgba(163, 185, 233, 1) 97%)"
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "lenti-visione-senza-confini",
-        "products": [],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 5,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
-    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "lenti-visione-senza-confini",
             "subheading": "",
             "title": "",
             "url": "",
@@ -195,7 +170,7 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "strap-libera-la-tua-personalita",
             "subheading": "",
             "title": "",
             "url": "",
@@ -209,7 +184,7 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "nine-la-maschera",
             "subheading": "",
             "title": "",
             "url": "",
@@ -241,6 +216,31 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "lenti-visione-senza-confini",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": false,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -859,8 +859,8 @@
     "slideshow",
     "image-link-blocks",
     "scrolling-text",
-    "featured-collection",
     "collection-list",
+    "featured-collection",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
