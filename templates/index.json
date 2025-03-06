@@ -39,7 +39,7 @@
         "slide-1"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": true,
         "image_size": "lg",
         "controls_type": "numbers",
