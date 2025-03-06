@@ -139,7 +139,7 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "Lenti per una visione senza confini",
         "text_size": "large",
         "text_style": "fill",
         "scrolling_mode": "auto",
@@ -147,7 +147,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": ""
+        "text_gradient": "linear-gradient(90deg, rgba(0, 29, 93, 1), rgba(163, 185, 233, 1) 97%)"
       }
     },
     "collection-list": {
