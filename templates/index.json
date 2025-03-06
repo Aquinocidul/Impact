@@ -15,7 +15,7 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1000239811.jpg",
+            "image": "shopify://shop_images/Testo_del_paragrafo.svg",
             "mobile_image": "shopify://shop_images/1000239870.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-end-start text-start",
